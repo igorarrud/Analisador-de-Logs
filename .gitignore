@@ -1,0 +1,23 @@
+# --- Arquivos temporários do Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Pastas do Ambiente Virtual (se você usar venv) ---
+.venv/
+venv/
+ENV/
+
+# --- Configurações de editores/IDE (VS Code, PyCharm) ---
+.vscode/
+.idea/
+
+# --- Arquivos do Sistema Operacional ---
+.DS_Store
+Thumbs.db
+
+# --- Logs de execução e bases de dados locais (Opcional) ---
+*.log
+
+# --- Pasta com a base de dados
+/archive
